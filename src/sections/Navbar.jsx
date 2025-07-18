@@ -10,8 +10,11 @@ const Navbar = () => {
                 </a>
 
                 <button>
-                  <img src={"assets/menu.svg"} alt="toggle" className="w-6 h-6" />
+                  <img src={"/assets/menu.svg"} alt="toggle" className="w-6 h-6" />
                 </button>
+                <h1 className="bg-black/90 text-white p-4">Test Background</h1>
+
+
             </div>
 
         </div>
